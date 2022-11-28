@@ -1,0 +1,73 @@
+= Portfolio Engergiequellen
+Author: Marco Herzig
+
+== Definition
+Energie:: //* hier phys. Definition einfügen? Lässt sich ggf. gut mit Energieträger und -quelle kombinieren
+Energieträger:: Medium, in dem die Energie vorliegt: Chemische Energie wird von Soffen getragen (z.B. Kohle, Öl, Gas, Biogas, Wasserstoff), elektrische Energie von elektrischen und magnetischen Ladungen, mechanische Energie von Druckluft, Wind oder Wasser (Strömung oder Höhenlage). Wärme kann von Körpern (z.B. Geothermie, Wasser für Fernheizung) getragen werden, aber auch, wie Licht, durch elektromagnetische Wellen (Wärmestrahlung).
+Energiequelle:: Die Energiequelle bezeichnet das System, mit dem die Energie ursprünglich verfügbar gemacht wurde (umgangssprachlich „Energieerzeugung“ oder "Energiegewinnung"), z.B. Kernenergie, Solarenergie oder Geothermie. Die verbreitete Bezeichnung „Energiequelle“ deckt sich namentlich oft mit der Bezeichnung des ursprünglichen Energieträgers (z.B. Wasser- oder Windenergie), was oft zur synonymen Verwendung der Wörter „Energiequelle“ und „Energieträger“ führt.
+
+== Unterscheidung: Konventionelle und Erneuerbare Energien
+
+*Konventionelle Energiequellen* sind Energiequellen, die auf dem Verbrauch von *limitierten Energieträgern* basieren. Das gilt für *fossile* und *Kernbrennstoffe*.
+
+*Erneuerbare* oder auch *regenerative Energiequellen* stehen, in Abhängigkeit von der Verbrauchsgeschwindigkeit, praktisch ohne Limitierung zur Verfügung.
+
+In konventionellen Energieträgern ist Energie in größerer Menge "gespeichert". Diese kann zwar abgerufen werden, die Neu-"Produktion" dauert allerdings erheblich länger als der Verbrauch. Bei Erneuerbarer Energie ist die unmittelbar abrufbare Energie ebenfalls limitiert, die Energiequelle wird allerdings konstant (oder periodisch) nachgefüllt.
+
+*Konventionelle Energieträger*:
+
+* Kernspaltung
+* Erdöl
+* Erdgas
+* Kohle
+* Torf
+
+*Erneuerbare Energieträger*:
+
+* Solare Energie
+    ** Sonnenenergie
+    ** Bioenergie (aus Biomasse)
+    ** Wasserkraft (Staudämme, Wasserräder, Gezeiten- bzw. Stromungsenergie, ...)
+* Geothermie
+
+== Vergleichskriterien
+
+Kategorien: Physikalisch, Wirtschaftlich, Politisch
+
+* *Flussgröße*
+* *Erntefaktor*
+    ** Vereint *Wirkungsgrad* und *Investitionskosten (energetisch)*
+* *Investitionskosten (finanziell)*
+    ** daraus resultiert: *Amortisationsdauer*
+* *Lagermöglichkeit* (bspw. Gastanks, ...)
+* *Lokale Verfügbarkeit* (Im- und Export)
+* *Zeitliche Verfügbarkeit* (bspw. nur bei Sturm o. nach langem Hochfahren v. Kraftwerk)
+* *CO2 Fußabdruck*
+* Erzeugter *Abfall*
+* *Laufzeit* eine Kraftwerks
+* Sicherheit
+
+== Weiterführende Links
+
+* Datenblatt zum aktuellen Stand in Deutschland beim link:https://www.umweltbundesamt.de/daten/energie/kraftwerke-konventionelle-erneuerbare#kraftwerkstandorte-in-deutschland[Umwelt Bundesamt]
+* siehe Weblinks bei link:https://de.wikipedia.org/wiki/Erneuerbare_Energien#Weblinks[Wikipedia: Erneuerbare Energie]
+* siehe Weblinks bei link:https://de.wikipedia.org/wiki/Fossile_Energie#Weblinks[Wikipedia: Fossile Energie]
+
+== Gliederung
+
+. Zieldefinition:
+    ** Was soll untersucht werden?
+    ** Was soll das Ergebnis des Vergleiches sein?
+    ** Konkrete Fragestellung?
+
+. Definitionen: Grundbegriffe (Energie, ...) und Energiequellen allgemein (Was sind erneuerbare und was konventionelle Energiequelle?)
+. Ausgangssituation: Was ist das Thema, warum ist es wichtig und was ist die konkrete Fragestellung?
+. Diskussion: welche Energieträger sollen miteinander verglichen werden?
+. Diskussion: welche Vergleichskriterien sollen angewandt werden?
+    ** Begründung entscheidend: Was hat wofür Relevanz? Bezug zur Fragestellung!
+    ** Bspw. via Paarweiser Vergleich?
+. _Erarbeitung der Ergebnisse_
+    ** Hier dokumentierst du, wie du dir die Ergebnisse erarbeitet hast. Wie bist du also vorgegangen? (Wikipedia -> Quellen/Fachartikel -> Lesen -> Inhalte markieren -> Inhalte Sortieren -> ... -> *Bewerten* -> Ergebnisse festhalten)
+. _Dokumentation der Ergebnisse_
+    ** Detailergebnisse darlegen. (Warum wird was wie betrachtet? Vgl. angehängte Papers.)
+    ** Ergebnis entscheiden. (Bspw. über Nutzwertanalyse?)
